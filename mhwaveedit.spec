@@ -1,11 +1,11 @@
 Summary:	Graphical program for editing, playing and recording sound files
 Name:		mhwaveedit
-Version:	1.4.22
+Version:	1.4.23
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Sound
 Source0:	http://download.gna.org/mhwaveedit/%{name}-%{version}.tar.bz2
-# Source0-md5:	920108844abfdc2613cc1d3e188a7833
+# Source0-md5:	72d12ebdd38777ba597db0cf6158ceef
 BuildRequires:	SDL-devel
 BuildRequires:	gtk+-devel
 BuildRequires:	jack-audio-connection-kit-devel
